@@ -54,3 +54,28 @@ The project uses an initial database enriched with synthetic data for academic a
 **Project Type:** Collaborative Academic Project  
 **Institution:** TOTI – Data Analytics Program, Class 59  
 **Technologies:** SQLite | Python | Pandas | Power BI
+
+---
+
+## Dashboard Preview
+
+### 1. Workforce Overview
+Employee demographics, geographic distribution, age groups, and seniority levels.
+
+![Workforce Overview](01-workforce-overview.png)
+
+### 2. Financial & Budget Analysis
+Annual budget, organizational expenses, cost categories, and departmental spending.
+
+![Financial Analysis](02-financial-analysis.png)
+
+### 3. Performance & ROI Analysis
+Departmental productivity, average ROI by seniority level, and employee performance indicators.
+
+![Performance and ROI](03-performance-roi.png)
+
+---
+
+## Key Takeaways
+
+The project provides an overview of workforce composition, organizational expenses, and employee performance, helping identify potential improvement opportunities through data analysis.
